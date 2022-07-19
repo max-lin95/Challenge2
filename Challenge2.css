@@ -1,0 +1,70 @@
+header nav {
+    padding-top: 0px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+header nav ul {
+    list-style-type: none;
+}
+
+header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url(./Images/Maxphoto.JPG);
+    background-size: cover;
+    background-position: center;
+}
+
+.Maxport {
+    color: black;
+    font-size: large;
+    float: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+}
+
+#AboutMe {
+    width: 100%;
+    border: blue 2px;
+}
+
+.section {
+    width: fit-content;
+    border: blue 2px;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+     margin-right: auto;
+    width: 50%;
+}
+
+#container {
+    border: 100x;
+    border-color: rgb(35, 23, 91);
+}
+
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+footer h4 {
+    font-size: 20px;
+}
+
